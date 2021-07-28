@@ -1,0 +1,15 @@
+{
+  "name": "olamundo",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto usando npm",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "ola",
+    "mundo"
+  ],
+  "author": "Aieychan karoline",
+  "license": "ISC"
+}

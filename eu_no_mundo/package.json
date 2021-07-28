@@ -1,0 +1,21 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "meu segundo projeto em npm",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "como",
+    "eu",
+    "me",
+    "vejo",
+    "daqui",
+    "a",
+    "um",
+    "ano"
+  ],
+  "author": "Aieychan Karoline",
+  "license": "ISC"
+}
